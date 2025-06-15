@@ -2,7 +2,7 @@
 
 ### Overview
 
-I spent around 2 hours on this project. I've used Laravel alongside React using Vite. I did spend a fair bit of time working 
+I spent around 2 hours on this project. I've used Laravel alongside React using Vite. I did spend a fair bit of time learning the newer/more native features of Laravel, because we migrated from Zend to Laravel not too long ago at my work, I have not had tha ability to work with fully native Laravel.
 
 ### Setup
 
