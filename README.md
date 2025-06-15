@@ -31,3 +31,4 @@ php artisan make:request UpdateTodoRequest
 ### Things I'd do better if I had more time
 
 - Better commit messages and smaller commits
+- Fix 405 errors
